@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 29.99,
+    "features": ["Access to gym equipment", "Group fitness classes"]
+  },
+  {
+    "id": 2,
+    "name": "Premium Plan",
+    "price": 49.99,
+    "features": [
+      "Access to gym equipment",
+      "Group fitness classes",
+      "Personal trainer sessions"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ultimate Plan",
+    "price": 79.99,
+    "features": [
+      "Access to gym equipment",
+      "Group fitness classes",
+      "Sauna and steam room access"
+    ]
+  }
+]
